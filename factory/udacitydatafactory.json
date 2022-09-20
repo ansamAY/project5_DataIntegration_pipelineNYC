@@ -1,0 +1,9 @@
+{
+	"name": "udacitydatafactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "783f1d91-81b4-4884-9500-a3644b354043",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
